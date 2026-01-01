@@ -1,3 +1,47 @@
+# Investment Calculator (React)
+
+A simple and interactive **Investment Calculator** built using **React.js**.  
+This project allows users to calculate investment growth based on user inputs such as initial investment, annual contribution, expected return rate, and duration.
+
+The application focuses on React fundamentals including **components, state management, props, conditional rendering, and reusable UI logic**.
+
+---
+
+## Features
+
+- User-friendly investment input form
+- Dynamic calculation of investment value
+- Clean and responsive UI
+- Real-time updates based on user input
+- Modular and reusable React components
+
+---
+
+## Tech Stack
+
+- **React.js**
+- **JavaScript (ES6+)**
+- **HTML5**
+- **CSS3**
+
+---
+
+## Learning Source & Credits
+
+This project was created by following a guided tutorial on **CodeSandbox** as part of a React learning course.
+
+- **Original Project Sandbox:**  
+  https://codesandbox.io/p/sandbox/investment-prj-cd9ws7
+
+- **Instructor:**  
+  Maximilian Schwarzmüller (Academind)
+
+The project was built for **learning purposes**, and the implementation helped strengthen understanding of React concepts such as component composition, state lifting, and data-driven UI rendering.
+
+---
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
